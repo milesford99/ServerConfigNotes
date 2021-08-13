@@ -1,4 +1,6 @@
 
 Split Brain DNS - selective recursion - prevent external resolution
 
+https://docs.microsoft.com/en-us/windows-server/networking/dns/deploy/split-brain-dns-deployment
+
 https://docs.microsoft.com/en-us/windows-server/networking/dns/deploy/dns-sb-with-ad
